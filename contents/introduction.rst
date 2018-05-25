@@ -193,8 +193,9 @@ Pull requests should by default commit on the `master` branch (edge).
 Roadmap and Resources
 --------------------------
 
-Swarm roadmap and tentative plan for features and POC series are found on the wiki:
+Swarm roadmap and tentative plan for features and POC series are found on the wiki or our public roadmap board:
 
+* https://github.com/orgs/ethersphere/projects/5
 * https://github.com/ethereum/go-ethereum/wiki/swarm-roadmap
 * https://github.com/ethereum/go-ethereum/wiki/swarm---POC-series
 
